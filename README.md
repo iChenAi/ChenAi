@@ -15,14 +15,14 @@
 
 ### 📌 Projects
 
-- [**Zygisk-Il2CppDumper**](https://github.com/y318600/Zygisk-Il2CppDumper) — Zygisk 版 Il2CppDumper，运行时 dump il2cpp 数据
+- [**Zygisk-Il2CppDumper**](https://github.com/iChenAi/Zygisk-Il2CppDumper) — Zygisk 版 Il2CppDumper
 - [**Blog**](https://ichenai.github.io) — Hugo + GitHub Pages 技术博客
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=y318600&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=iChenAi&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y318600&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iChenAi&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
